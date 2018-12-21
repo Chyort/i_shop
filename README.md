@@ -1,6 +1,6 @@
 # iShop
 
-E=commerce demo site
+E-commerce demo site
 
 ## Technologies Used
 
